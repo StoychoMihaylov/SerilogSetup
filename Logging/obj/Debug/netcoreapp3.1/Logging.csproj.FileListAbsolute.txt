@@ -1,0 +1,7 @@
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\bin\Debug\netcoreapp3.1\Logging.deps.json
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\bin\Debug\netcoreapp3.1\Logging.dll
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\obj\Debug\netcoreapp3.1\Logging.AssemblyInfoInputs.cache
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\obj\Debug\netcoreapp3.1\Logging.AssemblyInfo.cs
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\bin\Debug\netcoreapp3.1\Logging.pdb
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\obj\Debug\netcoreapp3.1\Logging.dll
+C:\Users\stmih\source\repos\LoggingTestApp\Logging\obj\Debug\netcoreapp3.1\Logging.pdb
