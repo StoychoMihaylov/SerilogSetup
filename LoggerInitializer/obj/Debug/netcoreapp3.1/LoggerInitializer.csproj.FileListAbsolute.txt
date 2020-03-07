@@ -1,7 +1,0 @@
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\bin\Debug\netcoreapp3.1\LoggerInitializer.deps.json
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\bin\Debug\netcoreapp3.1\LoggerInitializer.dll
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\obj\Debug\netcoreapp3.1\LoggerInitializer.AssemblyInfoInputs.cache
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\obj\Debug\netcoreapp3.1\LoggerInitializer.AssemblyInfo.cs
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\bin\Debug\netcoreapp3.1\LoggerInitializer.pdb
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\obj\Debug\netcoreapp3.1\LoggerInitializer.dll
-C:\Users\stmih\source\repos\LoggingTestApp\LoggerInitializer\obj\Debug\netcoreapp3.1\LoggerInitializer.pdb
