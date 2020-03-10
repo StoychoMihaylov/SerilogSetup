@@ -35,8 +35,7 @@
                 newLine +
                 method +
                 newLine +
-                protocol +
-                newLine;
+                protocol;
         }
     }
 }
