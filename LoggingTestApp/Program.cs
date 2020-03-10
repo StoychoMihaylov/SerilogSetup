@@ -3,10 +3,10 @@ namespace LoggingTestApp
     using System;
     using Serilog;
     using Serilog.Events;
-    using Microsoft.AspNetCore.Hosting;
-    using Microsoft.Extensions.Hosting;
     using Serilog.Sinks.SystemConsole.Themes;
     using Serilog.Enrichers.AspnetcoreHttpcontext;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.Extensions.Hosting;
 
     public class Program
     {
@@ -18,13 +18,13 @@ namespace LoggingTestApp
             {
                 var host = CreateHostBuilder(args).Build();
 
-                Log.Information("Starting host..." + Environment.NewLine);
+                Log.Information("Starting host...");
 
                 host.Run();
             }
             catch (Exception ex)
             {
-                Log.Fatal(ex, "Host terminated unexpectedly." + Environment.NewLine);
+                Log.Fatal(ex, "Host terminated unexpectedly.");
             }
             finally
             {
